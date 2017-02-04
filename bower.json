@@ -1,7 +1,7 @@
 {
   "name": "test3",
   "homepage": "https://github.com/tylergraf/test3",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "authors": [
     "Tyler Graf <tylergraf@gmail.com>"
   ],
@@ -16,6 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "test2": "git+https://github.com/tylergraf/test2#~0.0.2"
+    "test2": "git+https://github.com/tylergraf/test2#^0.0.2",
+    "polymer": "git+https://github.com/polymer/polymer#^1.4.0",
   }
 }
