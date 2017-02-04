@@ -17,6 +17,6 @@
   ],
   "dependencies": {
     "test2": "git+https://github.com/tylergraf/test2#^0.0.2",
-    "polymer": "git+https://github.com/polymer/polymer#^1.4.0",
+    "polymer": "git+https://github.com/polymer/polymer#^1.4.0"
   }
 }
